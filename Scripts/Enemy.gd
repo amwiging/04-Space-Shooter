@@ -24,7 +24,6 @@ func _physics_process(delta):
 			splat.position = position
 			splat.get_node("Sprite").playing = true
 			get_node("/root/Game/Splatters").add_child(splat)
-			c.change_score(score)
 		if c.name == "Player":
 			c.change_health(-damage)
 		queue_free()
