@@ -1,2 +1,2 @@
 # 04-Space-Shooter
-A default Godot project template for MSCH-C220
+This is my pig zombie shooter game where a pig shoots zombie pigs with his farts.
